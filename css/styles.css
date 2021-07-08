@@ -1,0 +1,23 @@
+body {
+    height: fit-content;
+    width: fit-content;
+    background-image: url(https://i.pinimg.com/originals/ab/a4/52/aba452ff6ec8be7110ee9083d48ac899.jpg);
+    background-color: blueviolet;
+    color: cornsilk;
+    margin: 0 auto;
+}
+.gif {
+    float: right;
+}
+.jumbotron {
+    background-image: url(https://chris-greening.github.io/instascrape/images/instagram_gradient.jpeg);
+}
+
+/* Remember to remove troubleshooting */
+.container, .potato {
+    border: 1px solid red;
+}
+
+.container {
+    padding: 1em;
+}
