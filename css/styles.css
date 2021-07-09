@@ -13,9 +13,8 @@ body {
     background-image: url(https://chris-greening.github.io/instascrape/images/instagram_gradient.jpeg);
 }
 
-/* Remember to remove troubleshooting */
 .container, .table-section, .tb1, .tb2 {
-    border: 1px solid wheat;
+    
 }
 
 .container {
